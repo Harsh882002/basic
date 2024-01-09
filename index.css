@@ -1,0 +1,16 @@
+*{
+    border: 1px solid red;
+}
+p{
+    color: green;
+}
+div{
+    margin: 10px;
+    padding: 5cm;
+    width: 10cm;
+    height: 10cm;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
